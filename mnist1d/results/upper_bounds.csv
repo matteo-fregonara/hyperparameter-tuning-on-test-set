@@ -1,0 +1,10 @@
+architecture,upper_bound_acc
+MLP-Tiny,100.0
+MLP-Mini,100.0
+MLP-Smaller,100.0
+MLP-Small,100.0
+MLP-Base,100.0
+MLP-Large,100.0
+MLP-Larger,100.0
+MLP-Huge,100.0
+MLP-Giant,100.0
